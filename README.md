@@ -2,7 +2,7 @@ Made using following this tut - https://www.youtube.com/playlist?list=PL003KdcgT
 
 this helped me in making needed animation for my games especially in this - https://github.com/deepdass/Project_Undead
 
-# whats next - maybe create new set of animation for akm(https://www.artstation.com/artwork/vbXmYD) to test the whole asset creation workflow
+whats next - maybe create new set of animation for akm(https://www.artstation.com/artwork/vbXmYD) to test the whole asset creation workflow
 
 some screenshot and vid of the blend file
 
